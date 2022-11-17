@@ -1,4 +1,4 @@
-# LINUX-
+# LINUX CODING
 FACTORIAL 
 
 #! bin/bash 
